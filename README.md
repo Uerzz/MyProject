@@ -1,4 +1,4 @@
-[基礎的な機械モデルを学ぶためのメモ]([https://github.com/Uerzz/MyProject/tree/main/MLnote))
+[基礎的な機械モデルを学ぶためのメモ](https://github.com/Uerzz/MyProject/tree/main/MLnote)
 
 [マルコフモデル修正済みの転移学習に基づく LSTMの インターネット金融株式市場予測への応用](https://github.com/Uerzz/MyProject/blob/main/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E3%83%A2%E3%83%87%E3%83%AB%E4%BF%AE%E6%AD%A3%E6%B8%88%E3%81%BF%E3%81%AE%E8%BB%A2%E7%A7%BB%E5%AD%A6%E7%BF%92%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%20LSTM%E3%81%AE%20%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E9%87%91%E8%9E%8D%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%E4%BA%88%E6%B8%AC%E3%81%B8%E3%81%AE%E5%BF%9C%E7%94%A8.pdf)
 
