@@ -55,7 +55,6 @@ Vice –Team Leader	2019.1-2019.2
 
 -   Languages: TOEIC **830**, JLPT **N1**
 -   Certification: Microsoft Office Specialist (MOS) Master
--   Basic machine learning algorithms derivation：https://github.com/Uerzz/MyProject/tree/main/ML%20Note%20(Continuous%20Update)
 
 
 
